@@ -1,5 +1,5 @@
 # Steel Titans
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://www.youtube.com/watch?v=wjgSwcIJKAA>
 #### Description:
 I made this game using python and pygame.
 The primary objective of the game is to navigate the maze-like arena and survive. 
